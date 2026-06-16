@@ -47,7 +47,7 @@ For developers who want to contribute to Pkynetics, clone the repository and ins
 
 .. code-block:: bash
 
-    git clone https://github.com/your_username/pkynetics.git
+    https://github.com/PPeitsch/pkynetics.git
     cd pkynetics
     pip install -e .[dev]
 
